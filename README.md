@@ -49,6 +49,8 @@ While building this project, I practiced:
 
 I'd like to keep improving my layout techniques and responsiveness using both Flexbox and Grid. Also planning to explore more advanced animations and transitions.
 
+- Font Family: [Inter](https://fonts.google.com/specimen/Inter)
+
 ## Repository
 
 📁 [View Repository on GitHub](https://github.com/rifadhrijan/social-link-profile.git)
