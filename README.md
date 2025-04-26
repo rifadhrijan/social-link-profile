@@ -33,7 +33,7 @@ Users should be able to:
 
 ## Live Site
 
-👉 [View Live Site](https://rifadhrijan.github.io/)
+👉 [View Live Site](https://rifadhrijan.github.io/social-link-profile/)
 
 ## My Process
 
